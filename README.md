@@ -1,0 +1,2 @@
+# ValOS
+Basic Operating System with a bash shell. Currently in developement. Licensed under the GPLv3 license.
